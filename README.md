@@ -1,7 +1,9 @@
 # 🦄 Proyecto Final - Unicorn Academy 2025 | Caso de Estudio
 Como trabajo integrador final, se propuso aplicar todos los conocimientos adquiridos en un **caso real de negocio**.
 
----
+<p align="center">
+  <img src="Portada.jpg" alt="Portada del proyecto" width="600"/>
+</p>
 
 ## 🏢 Lubricom SRL
 
