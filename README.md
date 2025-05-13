@@ -92,19 +92,6 @@ El tablero final desarrollado en Power BI permitió transformar hojas de cálcul
 - Josefina Marchini  
 - Leonardo de Anquín
 
----
-
-## 📎 Recursos
-
-- 📂 [Tablero Power BI - Link de ejemplo si aplica]
-- 🗃️ [Repositorio de datos y scripts ETL](./carpeta-etl/)
-- 📑 [Presentación final - PDF](./presentacion-final.pdf) _(opcional)_
-
----
-
 ## 🚀 Reflexión Final
 
 Este proyecto fue una excelente oportunidad para integrar conocimientos técnicos con un caso real de negocio. Pudimos aportar valor a una empresa local mediante herramientas modernas de análisis de datos y, al mismo tiempo, fortalecer nuestras habilidades como analistas.
-
----
-
