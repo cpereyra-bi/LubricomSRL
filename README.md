@@ -1,19 +1,17 @@
-# 🦄 Proyecto Final - Unicorn Academy 2025 | Caso de Estudio
-Como trabajo integrador final, se propuso aplicar todos los conocimientos adquiridos en un **caso real de negocio**.
-
 <p align="center">
   <img src="Portada.jpg" alt="Portada del proyecto" width="600"/>
 </p>
 
-## 🏢 Lubricom SRL
+Proyecto Final - Unicorn Academy 2025 | Caso de Estudio
 
+Como trabajo integrador final, se propuso aplicar todos los conocimientos adquiridos en un **caso real de negocio**.
 **Lubricom SRL** es una empresa familiar ubicada en la ciudad de Formosa, Argentina. Se trata de una **estación de servicio** que ofrece combustible, lubricantes y servicios adicionales.
 
 El objetivo del proyecto fue acompañar a la empresa en su transformación digital, aplicando herramientas de análisis de datos para mejorar la toma de decisiones operativas y estratégicas.
 
 ---
 
-## 🎯 Objetivos del Proyecto
+## Objetivos del Proyecto
 
 1. **Centralizar los datos** de las operaciones diarias en una única fuente confiable.
 2. **Diseñar procesos ETL** para automatizar la recopilación, limpieza y carga de datos.
@@ -23,7 +21,7 @@ El objetivo del proyecto fue acompañar a la empresa en su transformación digit
 
 ---
 
-## 🛠️ Herramientas Utilizadas
+## Herramientas Utilizadas
 
 | Herramienta    | Uso Principal                            |
 |----------------|------------------------------------------|
@@ -34,7 +32,7 @@ El objetivo del proyecto fue acompañar a la empresa en su transformación digit
 
 ---
 
-## 🔄 Proceso de Desarrollo (ETL)
+## Proceso de Desarrollo (ETL)
 
 ### 🟢 Extracción de Datos
 
@@ -54,24 +52,24 @@ El objetivo del proyecto fue acompañar a la empresa en su transformación digit
 
 ---
 
-## 📊 Resultados
+## Resultados
 
 El tablero final desarrollado en Power BI permitió transformar hojas de cálculo aisladas en una herramienta estratégica de análisis y toma de decisiones. Entre los principales componentes se incluyen:
 
-### ✅ Indicadores Clave (KPIs)
+### Indicadores Clave (KPIs)
 
 - **Facturación total**: visualización acumulada y segmentada por mes, zona y familia de productos.
 - **Ticket promedio**: comparación entre clientes, zonas y temporalidad.
 - **Clientes activos**: monitoreo mensual de la cartera vigente.
 - **Productos más vendidos**: ranking dinámico por unidades y por monto facturado.
 
-### 📈 Análisis Dinámico
+### Análisis Dinámico
 
 - **Ventas por zona, producto, cliente y período**: filtros interactivos permiten identificar patrones comerciales y oportunidades de expansión.
 - **Tendencias y estacionalidad**: gráficos de líneas y áreas que permiten detectar meses pico y comportamientos cíclicos del consumo.
 - **Mapa geográfico de clientes**: representación espacial de la distribución de clientes activos, ayudando a identificar zonas de concentración y potencial crecimiento.
 
-### 💰 Dashboard Financiero Complementario
+### Dashboard Financiero Complementario
 
 - Evolución mensual de ventas y cobranzas.
 - Comparación entre facturación y cobranzas efectivas.
@@ -85,7 +83,7 @@ El tablero final desarrollado en Power BI permitió transformar hojas de cálcul
 - **Valorización del análisis de datos**: el proyecto evidenció el potencial del análisis de datos aplicado a PyMEs del sector energético e industrial, sentando precedentes para futuras implementaciones tecnológicas.
 - **Aproximación colaborativa**: el trabajo conjunto con el cliente permitió adaptar la solución a las necesidades reales del negocio y fomentar una cultura de toma de decisiones basada en datos.
 
-## 👨‍💻 Equipo de Proyecto
+## Equipo de trabajo
 
 - Camila Pereyra  
 - Jazmín M. Altamirano  
